@@ -35,8 +35,7 @@ CorrectLoginTest
     [Documentation]    Başarılı Oturum Açma Senaryosu
     Go to Login Page
     Correct Login Keywords
-    Log    ${TEST NAME} başarıyla tamamlandı...
-    Log    Test %{os} üzerinde çalıştırıldı...  
+    Log    ${TEST NAME} başarıyla tamamlandı... 
     
 
 

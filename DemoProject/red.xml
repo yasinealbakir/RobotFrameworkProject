@@ -5,8 +5,6 @@
 	<referencedLibrary type="PYTHON"
 		name="SeleniumLibrary"
 		path="C:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/SeleniumLibrary/__init__.py" />
-	<referencedLibrary type="PYTHON" name="DebugLibrary"
-		path="C:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/DebugLibrary.py" />
 	<pythonpath />
 	<classpath />
 	<excludedForValidation />
